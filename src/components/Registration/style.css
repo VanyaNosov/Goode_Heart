@@ -1,0 +1,21 @@
+.button_switch {
+  border: 2px solid #191E47;
+  border-radius: 5px;
+  display: inline-block;
+  width: 220px;
+  height: 35px;
+}
+
+.physical_person_btn {
+  background-color: #191E47;
+  color: #ffff;
+  width: 50%;
+  height: 100%;
+}
+
+.legal_person_btn {
+  background-color: #ffff;
+  color: #191E47;
+  width: 50%;
+  height: 100%;
+}
